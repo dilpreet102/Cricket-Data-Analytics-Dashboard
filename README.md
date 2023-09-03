@@ -12,6 +12,8 @@ bowlers) and ultimately choose the top 11 players to play in the match.
 Result: Selected team using Power BI dashboard has 90% of chances to win the game. 
 
 
-Programming languages used: Python.
-Python framework: Pandas.
+Programming languages used: Python
+
+Python framework: Pandas
+
 BI tool: Power BI
