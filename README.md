@@ -18,4 +18,4 @@ Python framework: Pandas
 
 BI tool: Power BI
 
-Link :[ https://app.powerbi.com/view?r=eyJrIjoiMWEzMTgxM2MtNTg4MC00YzQ1LWE1OGQtYTA5MzY5Njk3M2E0IiwidCI6IjU2YWQyYThhLWU5MmQtNGNjOS05YzY2LWNlNWZjMGFlNWM4MCJ9](url)
+Link : [https://app.powerbi.com/view?r=eyJrIjoiMWEzMTgxM2MtNTg4MC00YzQ1LWE1OGQtYTA5MzY5Njk3M2E0IiwidCI6IjU2YWQyYThhLWU5MmQtNGNjOS05YzY2LWNlNWZjMGFlNWM4MCJ9](url)
